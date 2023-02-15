@@ -1,0 +1,7 @@
+{
+  "name": "ExpensePal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
