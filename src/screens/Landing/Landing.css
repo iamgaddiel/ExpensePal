@@ -1,0 +1,29 @@
+.page_container{
+    background-position: bottom;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+
+.landing_content{
+    height: 75vh;
+    display: flex;
+    align-items: end;
+}
+
+.landing_content span{
+    font-size: 3em;
+}
+
+
+.ladning_buttons div{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+ion-button#skip_btn, ion-button#next_btn{
+    width: 40%;
+}

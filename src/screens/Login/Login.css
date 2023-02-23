@@ -1,0 +1,26 @@
+.auth_img{
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    /* height: 30vh; */
+    width: 100vw;
+    display: flex;
+    /* justify-content: center; */
+    align-items: end;
+    border-radius: 0px 0px 35px 35px;
+}
+
+.auth_img img{
+    width: 100%;
+    height: auto;
+}
+
+.divider{
+    width: 30vw;
+    background-color: #555555;
+    height: 1.2px;
+    display: block;
+    margin: 0 5px
+    /* padding: 20px; */
+}

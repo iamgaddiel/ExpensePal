@@ -1,0 +1,21 @@
+.otp_inputs_container{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.otp_input{
+    width: 70px;
+    padding: 5px;
+    height: 70px;
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+}
+
+#resend_btn{
+    color: var(--tertiary)
+}
+
+#back_btn{
+    --background: var(--tertiary);
+}
